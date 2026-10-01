@@ -52,11 +52,20 @@ A documentação também foi escrita para servir como material de apoio para out
 - [x] Comandos imperativos
 - [ ] ConfigMaps e Secrets
 - [ ] Volumes
-- [ ] Ingress
+- [x] Ingress
+- [x] Redes: CNI, kube-proxy, CoreDNS e Ingress com TLS
+- [x] Observabilidade com Helm, Prometheus, Loki e Grafana
+- [x] Gerenciamento gráfico e ferramentas de segurança
 
 📖 Documentação:
 
 [Atividade 02 — Conceitos Centrais do Kubernetes](02-kubernetes/atividade-02-conceitos-kubernetes.md)
+
+[Atividade 08 — Redes e Ingress com HTTPS](02-kubernetes/atividade-08-redes-ingress-kubernetes.md)
+
+[Atividade 09 — Monitoramento e Observabilidade](02-kubernetes/atividade-09-observabilidade-kubernetes.md)
+
+[Atividade 10 — Tópicos avançados](02-kubernetes/atividade-10-topicos-avancados-kubernetes.md)
 
 ---
 
